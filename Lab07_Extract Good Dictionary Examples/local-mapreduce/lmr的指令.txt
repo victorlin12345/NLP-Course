@@ -1,0 +1,2 @@
+cat bnc.sents.txt | ./lmr 4m 8 'python3 GDEX-map.py' 'python3 GDEX-reduce.py' bnc.gdex
+    source         4個mapper 8個reducer  map程式                reduce程式      output 的 資料夾

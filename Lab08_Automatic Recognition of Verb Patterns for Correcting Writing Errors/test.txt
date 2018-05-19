@@ -1,0 +1,85 @@
+0	ENGLISH	V n	train English every day	Firstly , I train English every day with Englishtown , so that I can apply for the galleries only in English .
+0	APPLY	V for n	can apply for the galleries	Firstly , I train English every day with Englishtown , so that I can apply for the galleries only in English .
+1	HAVE	V n	have meetings	In the morning I have meetings to discuss about the problems of the machines and after that I go to the office to read and write emails .
+1	HAVE	V n to v	have meetings to discuss	In the morning I have meetings to discuss about the problems of the machines and after that I go to the office to read and write emails .
+1	DISCUSS	V about n	discuss about the problems	In the morning I have meetings to discuss about the problems of the machines and after that I go to the office to read and write emails .
+1	GO	V to n	go to the office	In the morning I have meetings to discuss about the problems of the machines and after that I go to the office to read and write emails .
+1	WRITE	V n	read and write emails	In the morning I have meetings to discuss about the problems of the machines and after that I go to the office to read and write emails .
+2	EXPLAIN	V n	better explain you	To better explain you , I sent you three pictures .
+2	SEND	V n	sent you three pictures	To better explain you , I sent you three pictures .
+3	GET	V n	will never get an opportunity	You will never get an opportunity like this . I urge you to apply this job !
+3	URGE	V n	urge you	You will never get an opportunity like this . I urge you to apply this job !
+3	URGE	V n to v	urge you to apply	You will never get an opportunity like this . I urge you to apply this job !
+3	APPLY	V n	apply this job	You will never get an opportunity like this . I urge you to apply this job !
+4	TELL	V n	tell you	Let me tell you why you should apply to a zookeeper at Flossington Zoo .
+4	APPLY	V to n	should apply to a zookeeper	Let me tell you why you should apply to a zookeeper at Flossington Zoo .
+5	LIKE	V n	would like an outdoor job	Since you would like an outdoor job , I want to encourage you to apply the zookeeper position .
+5	WANT	V to v	want to encourage	Since you would like an outdoor job , I want to encourage you to apply the zookeeper position .
+5	ENCOURAGE	V n	encourage you	Since you would like an outdoor job , I want to encourage you to apply the zookeeper position .
+5	ENCOURAGE	V n to v	encourage you to apply	Since you would like an outdoor job , I want to encourage you to apply the zookeeper position .
+5	APPLY	V n	apply the zookeeper position	Since you would like an outdoor job , I want to encourage you to apply the zookeeper position .
+6	WANT	V to v	want to encourage	I want to encourage you to apply this position , sure you 'll enjoy it !
+6	ENCOURAGE	V n	encourage you	I want to encourage you to apply this position , sure you 'll enjoy it !
+6	ENCOURAGE	V n to v	encourage you to apply	I want to encourage you to apply this position , sure you 'll enjoy it !
+6	APPLY	V n	apply this position	I want to encourage you to apply this position , sure you 'll enjoy it !
+6	ENJOY	V n	'll enjoy it	I want to encourage you to apply this position , sure you 'll enjoy it !
+7	ENCOURAGE	V n	encourage you	I really encourage you to apply to this position .
+7	ENCOURAGE	V n to v	encourage you to apply	I really encourage you to apply to this position .
+7	APPLY	V to n	apply to this position	I really encourage you to apply to this position .
+8	URGE	V n	urge you	I urge you to apply this job because it suits your expectations .
+8	URGE	V n to v	urge you to apply	I urge you to apply this job because it suits your expectations .
+8	APPLY	V n	apply this job	I urge you to apply this job because it suits your expectations .
+8	SUIT	V n	suits your expectations	I urge you to apply this job because it suits your expectations .
+9	BE	V n	am a hardworking	I am a hardworking , motivated person , and I need an opportunity to explain about it .
+9	MOTIVATE	V n	motivated person	I am a hardworking , motivated person , and I need an opportunity to explain about it .
+9	NEED	V n	need an opportunity	I am a hardworking , motivated person , and I need an opportunity to explain about it .
+9	NEED	V n to v	need an opportunity to explain	I am a hardworking , motivated person , and I need an opportunity to explain about it .
+9	EXPLAIN	V about n	explain about it	I am a hardworking , motivated person , and I need an opportunity to explain about it .
+10	THINK	V n	think they	I think they could make a meet with everyone to discuss about the company goals .
+10	THINK	V n v n	think they could make a meet	I think they could make a meet with everyone to discuss about the company goals .
+10	MAKE	V n	could make a meet	I think they could make a meet with everyone to discuss about the company goals .
+10	DISCUSS	V about n	discuss about the company goals	I think they could make a meet with everyone to discuss about the company goals .
+11	CHECK	V n	checked the car	We checked the car again and explained the owner that it was an old car that was not in a good condition .
+11	EXPLAIN	V n	explained the owner	We checked the car again and explained the owner that it was an old car that was not in a good condition .
+11	EXPLAIN	V n that	explained the owner that	We checked the car again and explained the owner that it was an old car that was not in a good condition .
+11	BE	V n	was an old car that	We checked the car again and explained the owner that it was an old car that was not in a good condition .
+11	BE	V n v-ed	was an old car that was	We checked the car again and explained the owner that it was an old car that was not in a good condition .
+11	BE	V adv	was not	We checked the car again and explained the owner that it was an old car that was not in a good condition .
+12	DO	V n	do we	- What kind of circumstances do we have to discuss about it ?
+12	HAVE	V to v	have to discuss	- What kind of circumstances do we have to discuss about it ?
+12	DISCUSS	V about n	discuss about it	- What kind of circumstances do we have to discuss about it ?
+13	WANT	V to v	want to encourage	After that , I want to encourage you to apply this job .
+13	ENCOURAGE	V n	encourage you	After that , I want to encourage you to apply this job .
+13	ENCOURAGE	V n to v	encourage you to apply	After that , I want to encourage you to apply this job .
+13	APPLY	V n	apply this job	After that , I want to encourage you to apply this job .
+14	GO	V to n	went to a steakhouse restaurant	We went to a steakhouse restaurant and discussed about our future relationship .
+14	DISCUSS	V about n	discussed about our future relationship	We went to a steakhouse restaurant and discussed about our future relationship .
+15	APPLY	V to n	'm applying to this	So I 'm applying to this .
+16	THINK	V n	think this movie	I think this movie can apply for to Oscar .
+16	APPLY	V to n	can apply for to Oscar	I think this movie can apply for to Oscar .
+17	DISCUSS	V about n	discussed about the budget	In this meeting they discussed about the budget for the next year .
+18	DISCUSS	V about n	discussed about ocean shipping	We primarily discussed about ocean shipping developing tendency of the inland market .
+18	DEVELOP	V n	developing tendency	We primarily discussed about ocean shipping developing tendency of the inland market .
+19	DISCUSS	V about n	discussed about the quality assessment	In the last meeting , we discussed about the quality assessment of our department .
+20	SEE	V n	can see a lot	We can see a lot of international conferences that have been discussing about the environment quality .
+20	DISCUSS	V about n	have been discussing about the environment quality	We can see a lot of international conferences that have been discussing about the environment quality .
+21	LIKE	V to v	like to get	I like to get together with my friends to discuss about these things and to visit exhibitions .
+21	GET	V adv	get together	I like to get together with my friends to discuss about these things and to visit exhibitions .
+21	DISCUSS	V about n	discuss about these things	I like to get together with my friends to discuss about these things and to visit exhibitions .
+21	VISIT	V n	visit exhibitions	I like to get together with my friends to discuss about these things and to visit exhibitions .
+22	ASK	V n	asked him	I asked him , why they bought not much this season , there was a problem , and he explained me , that they found it a bit expensive for them .
+22	BUY	V adv	bought not much	I asked him , why they bought not much this season , there was a problem , and he explained me , that they found it a bit expensive for them .
+22	BE	V n	was a problem	I asked him , why they bought not much this season , there was a problem , and he explained me , that they found it a bit expensive for them .
+22	EXPLAIN	V n	explained me	I asked him , why they bought not much this season , there was a problem , and he explained me , that they found it a bit expensive for them .
+22	FIND	V n n	found it a bit	I asked him , why they bought not much this season , there was a problem , and he explained me , that they found it a bit expensive for them .
+23	GET	V n	get this dream	To get this dream , I am going to apply to the master 's program in hotel management .
+23	GO	V to v	am going to apply	To get this dream , I am going to apply to the master 's program in hotel management .
+23	APPLY	V to n	apply to the master 's program	To get this dream , I am going to apply to the master 's program in hotel management .
+24	ANSWER	V of n	will answer of your mail	I will answer of your mail about the TV survey .
+25	TRY	V to v	will try to answer	I will try to answer to your questions in a more detailed way .
+25	ANSWER	V to n	answer to your questions	I will try to answer to your questions in a more detailed way .
+26	ANSWER	V about n	answer about your questions	I answer about your questions .
+27	BE	V adj	is truth	Finally , if your choice is truth , you will answer about a personal question .
+27	ANSWER	V about n	will answer about a personal question	Finally , if your choice is truth , you will answer about a personal question .
+28	INVITE	V to v	are invited to answer	All parents are invited to answer to the invitation before Wednesday .
+28	ANSWER	V to n	answer to the invitation	All parents are invited to answer to the invitation before Wednesday .
